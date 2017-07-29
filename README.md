@@ -17,3 +17,9 @@ We love pull requests. Here's a quick guide:
 
 ## License
 This project is licensed under the terms of the MIT license.
+
+
+## TODO
+[ ] Read all available lists via node.js
+[ ] Generate API for all data, will return URL for detail info
+[ ] When a user create a list, need to run the node.js command
